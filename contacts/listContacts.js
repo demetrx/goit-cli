@@ -7,6 +7,4 @@ const listContacts = async () => {
   return contacts;
 }
 
-listContacts()
-
 module.exports = listContacts

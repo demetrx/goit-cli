@@ -12,6 +12,7 @@
   "author": "demetrx <mcbright7447@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "uuid": "^9.0.0",
     "yargs": "^17.5.1"
   },
   "devDependencies": {
